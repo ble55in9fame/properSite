@@ -96,13 +96,7 @@ input{
     #results{
         font-size: 1.4rem;
     }
-    fieldset{
-        max-width: 50vh;
-        max-height: 7vh;
-    }
     input{
-    max-width: 30vh;
-    max-height: 5vh;
     font-size: 16px;
     }
     legend{
