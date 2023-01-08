@@ -31,7 +31,6 @@ body{
 
 .result{
     font-size: 2rem;
-    text-shadow: 3px 3px 0 black;
     letter-spacing: 0.1ch;
     font-family: cursive;
 }
@@ -100,7 +99,7 @@ input{
         font-size: 1.4rem;
     }
     fieldset{
-        max-width: 45vh;
+        max-width: 40vh;
         max-height: 7vh;
     }
 }
