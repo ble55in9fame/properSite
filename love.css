@@ -23,8 +23,7 @@ body{
     text-shadow: 3px 3px 0 black;
 }
 .container{
-    min-width: 50vh;
-    min-height: 30vh;
+    width: 100%;
     border:1px solid whitesmoke;
     border-radius: 20px;
 }
@@ -88,10 +87,6 @@ input{
     }
     .big-para{
         font-size: 1rem;
-    }
-    .container{
-        max-width: 25vh;
-        max-height: 15vh;
     }
     .result{
         font-size: 1.2rem;
