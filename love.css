@@ -15,6 +15,7 @@ body{
     font-family: cursive;
     color: red;
     text-shadow: 3px 3px 0 black;
+    font-weight: bold;
 }
 .big-para{
     font-size: 1.6rem;
@@ -33,10 +34,11 @@ body{
     letter-spacing: 0.1ch;
     font-family: cursive;
     color: darkred;
+    font-weight: bold;
 }
 #results{
     text-align: center;
-    text-shadow: 3px 3px 0 black;
+    font-weight: bold;
     letter-spacing: 0.1ch;
     font-size: 2rem;
 }
