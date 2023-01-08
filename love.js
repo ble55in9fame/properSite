@@ -9,7 +9,7 @@ function loveCalc() {
             if (love < 50) {
                 $("#results").text(
                     "" + getInputValue + " and " + getInputValue1 + " love eachother " + love + "%," +
-                    " They do not Love each Other. 😭"
+                    " Y'all do not Love each Other. 😭"
                 );
             } else if (love > 50) {
                 $("#results").text(
