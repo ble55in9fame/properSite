@@ -97,6 +97,8 @@ input{
         font-size: 1.4rem;
     }
     input{
+     max-width: 25vh;
+    max-height: 5vh;
     font-size: 16px;
     }
     legend{
